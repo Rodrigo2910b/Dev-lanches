@@ -1,0 +1,95 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 80px;
+}
+h1 span{
+  margin:10px ;
+  color:rgb(124, 76, 255) ;
+}
+
+.navs{
+  height:90px ;
+  width:90px ;
+  display: inline-block;
+  
+}
+
+
+.buttons-navs{
+  width: 180px;
+  height: 180px;
+  background-color:rgb(124, 76, 255) ;
+  border: none;
+  border-radius:50%;
+  margin: 50px 30px;
+  transition: background-color 0,5s;
+}
+
+.buttons-navs:hover{
+  background-color:rgb(124, 76, 255) ;
+  cursor: pointer;
+
+}
+.buttons-navs:active{
+  opacity:0.5 ;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ul{
+  list-style: none;
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  gap:30px ;
+  justify-content: center;
+  place-items: center;
+}
+ul il img{
+  width: 200px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+p{
+  color: #ffffff;
+}
+ .p{
+  color: rgb(6, 194, 6);
+}
+
+@media screen and (max-width: 680px) {
+ul{
+  grid-template-columns: 100px  ;
+}
+
+}
+h1{
+  font-size: 50px;
+}
+
+.navs{
+  height:70px ;
+  width:70px ;
+}
+.buttons-navs{
+  
+  width: 120px;
+  height: 120px;
+  border-radius:30px ;
+  border: 1px;
+ margin: 20px 10px;
+
+}
