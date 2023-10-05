@@ -4,9 +4,9 @@ O projeto "Dev Lanches" é um exercício prático de desenvolvimento web que vis
 
 ## Acessar o Projeto
 
-Clique no botão abaixo para acessar o projeto "Dev Lanches":
+Clique no link abaixo para acessar o projeto "Dev Lanches":
 
-[![Acessar o Projeto](https://rodrigo2910b.github.io/Dev-lanches/button.png)](https://rodrigo2910b.github.io/Dev-lanches/)
+[Acessar o Projeto](https://rodrigo2910b.github.io/Dev-lanches/)
 
 ## Funcionalidades do Projeto
 
@@ -26,4 +26,4 @@ Este projeto é uma excelente oportunidade para praticar e aprimorar suas habili
 
 Lembre-se de que a estética visual do projeto pode ser aprimorada posteriormente, mas o foco principal aqui é o aprendizado e a prática das técnicas de programação mencionadas.
 
-Aproveite o projeto "Dev Lanches" como uma oportunidade de aprimorar suas habilidades de desenvolvimento web e continue explorando novos conceitos e desafios para se tornar um desenvolvedor mais experiente.
+Aproveite o projeto "Dev Lanches" como uma oportunidade de aprimorar suas habilidades de desenvolvimento web e continue
